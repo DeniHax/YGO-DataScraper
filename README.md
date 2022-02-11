@@ -14,6 +14,6 @@ Opened Three Total Cases of the following Boxes:
   
 ## Visualized Data
 
-The live dashboard containing the results can be seen on my Tableau Public account here: https://public.tableau.com/app/profile/deni.haxhiu/viz/AncientTinsVsMaximumGoldVsBurstofDestiny/Dashboard1
+The live dashboard containing the results can be seen on my Tableau Public account here: https://public.tableau.com/app/profile/deni.haxhiu/viz/AncientTinsVsMaximumGoldVsBurstofDestiny/Dashboard2
 
-<img src="https://user-images.githubusercontent.com/17136640/153625133-affa2134-13f7-4ec9-b39a-fc603bb82ca4.PNG" width="900" height ="600">
+<img src="https://user-images.githubusercontent.com/17136640/153632797-1d0bbf38-ba0d-4919-b26b-b1eed7ad3b93.PNG" width="900" height ="600">
